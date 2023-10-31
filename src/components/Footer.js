@@ -16,7 +16,7 @@ function Footer() {
             {/* ... Add other links similarly ... */}
             <li>
               <a href="#" className="hover:underline">
-                DEES DAY NURSERY
+                DEE&apos;S DAY NURSERY
               </a>
             </li>
             <li>
@@ -31,7 +31,7 @@ function Footer() {
         {/* Contact Info */}
         <div>
           <h3 className="text-xl mb-4 font-bold">Address & Information</h3>
-          <p>Dees Day Nursery (Wimbledon) Ltd.</p>
+          <p>Dee&apos;s Day Nursery (Wimbledon) Ltd.</p>
           <p>Address: 2 Mansel Road, Wimbledon, London SW19 4AA</p>
           <p>Telephone: 020 8944 0284</p>
           <p>Email: info@deesnursery.co.uk</p>

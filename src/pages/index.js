@@ -25,7 +25,7 @@ function HomePage() {
           />
           <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
             <h1 className="text-4xl text-center font-bold text-white mb-2">
-              Dee’s Day Nursery: Premier Childcare in Wimbledon
+              Dee&apos;s Day Nursery: Premier Childcare in Wimbledon
             </h1>
             <p className="text-xl text-center text-white">
               Nurturing Children for Over 18 Years
@@ -40,10 +40,11 @@ function HomePage() {
             </h2>
             <p>
               Premier childcare services for children aged 3 months to 5 years.
-              With over 18 years of experience, we focus on nurturing children's
-              physical, emotional, and social development in a safe, stimulating
-              environment. Conveniently located within 400 meters of Wimbledon
-              railway station, we're open 51 weeks a year.
+              With over 18 years of experience, we focus on nurturing
+              children&apos;s physical, emotional, and social development in a
+              safe, stimulating environment. Conveniently located within 400
+              meters of Wimbledon railway station, we&apos;re open 51 weeks a
+              year.
             </p>
           </div>
 
@@ -83,9 +84,9 @@ function HomePage() {
         <section className="mb-6">
           <h2 className="text-2xl font-semibold mb-2">Testimonials</h2>
           <p>
-            "Francesca feels very much at home at Dee’s Day Nursery. The staff
-            is receptive and prioritizes children's well-being." - Chritele
-            Waldron, Parent
+            "Francesca feels very much at home at Dee&apos;s Day Nursery. The
+            staff is receptive and prioritizes children&apos;s well-being." -
+            Chritele Waldron, Parent
           </p>
         </section>
 

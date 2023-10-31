@@ -84,9 +84,9 @@ function HomePage() {
         <section className="mb-6">
           <h2 className="text-2xl font-semibold mb-2">Testimonials</h2>
           <p>
-            "Francesca feels very much at home at Dee&apos;s Day Nursery. The
-            staff is receptive and prioritizes children&apos;s well-being." -
-            Chritele Waldron, Parent
+            &quot;Francesca feels very much at home at Dee&apos;s Day Nursery.
+            The staff is receptive and prioritizes children&apos;s
+            well-being.&quot; - Chritele Waldron, Parent of Francesca
           </p>
         </section>
 

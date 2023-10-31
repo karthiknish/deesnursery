@@ -95,7 +95,7 @@ function HomePage() {
           <h2 className="text-2xl font-semibold mb-2">Our Team</h2>
           <p>
             Recognized by Ofsted for our collaborative approach with parents. We
-            provide regular updates on children's progress and offer ample
+            provide regular updates on children&apos;s progress and offer ample
             opportunities for parental involvement.
           </p>
         </section>

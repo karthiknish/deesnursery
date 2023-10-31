@@ -16,7 +16,7 @@ function Footer() {
             {/* ... Add other links similarly ... */}
             <li>
               <a href="#" className="hover:underline">
-                DEE’S DAY NURSERY
+                DEES DAY NURSERY
               </a>
             </li>
             <li>

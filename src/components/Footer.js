@@ -31,7 +31,7 @@ function Footer() {
         {/* Contact Info */}
         <div>
           <h3 className="text-xl mb-4 font-bold">Address & Information</h3>
-          <p>Dee's Day Nursery (Wimbledon) Ltd.</p>
+          <p>Dees Day Nursery (Wimbledon) Ltd.</p>
           <p>Address: 2 Mansel Road, Wimbledon, London SW19 4AA</p>
           <p>Telephone: 020 8944 0284</p>
           <p>Email: info@deesnursery.co.uk</p>
